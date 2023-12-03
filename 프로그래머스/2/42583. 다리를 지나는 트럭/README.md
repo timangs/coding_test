@@ -1,3 +1,8 @@
+## 배운점
+
+<p>이전 프로세스 문제 (헤매다 다른사람들 풀이를 확인하였다.) 에서 for 안에서 list.pop을 사용할 경우 문제를 이미 확인했었기에 while을 사용하였다.</p>
+<p>처음으로 deque를 사용해보았고 이를 통해 시간 복잡도를 최소화 하려 시도하였다.</p>
+
 # [level 2] 다리를 지나는 트럭 - 42583 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42583) 
