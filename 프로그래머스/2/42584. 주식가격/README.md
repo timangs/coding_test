@@ -1,3 +1,9 @@
+## 배운점
+
+<p>for 문을 사용할 때에 for i in list 는 효율성이 좋지않아 해결이 어려웠다.</p>
+<p>아직 이에 따른 자료를 찾지는 못했지만 for i in range(len(list))가 더 시간복잡도가 더 적은것 같다.</p>
+
+
 # [level 2] 주식가격 - 42584 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42584#qna) 
